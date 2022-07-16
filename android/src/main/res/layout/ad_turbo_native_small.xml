@@ -48,15 +48,15 @@
 
                         <TextView
                             android:id="@+id/native_ad_attribution_small"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:background="#F19938"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginRight="5dp"
+                            android:background="#00FFFFFF"
                             android:gravity="center"
                             android:padding="2dp"
                             android:text="Ad"
-                            android:textColor="#FFFFFF"
+                            android:textColor="#686868"
                             android:textSize="10sp"
-                            android:layout_marginRight="5dp"
 
 
                             />
